@@ -1,0 +1,26 @@
+{
+  "name": "smallweatherapp",
+  "version": "1.0.0",
+  "description": "Small web app which allows you to check the weather where you are",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "handlebars": "^4.1.0",
+    "nodemon": "^1.18.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "app.js",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonas-Hey/WWA.git"
+  },
+  "author": "Jonas Engel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonas-Hey/WWA/issues"
+  },
+  "homepage": "https://github.com/Jonas-Hey/WWA#readme"
+}
